@@ -1,4 +1,4 @@
 Hello Git!
 I am learning Git
 This is my third version
-Thhis change was made on my feature branch
+This change was made on the conflict branch
