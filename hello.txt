@@ -1,4 +1,4 @@
 Hello Git!
 I am learning Git
 This is my third version
-This change was made directly on main
+The branches had dif changes and i resolved the conflict
